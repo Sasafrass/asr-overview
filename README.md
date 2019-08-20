@@ -4,7 +4,7 @@ This github was instantiated with the intent of providing an overview of Systema
 # Table Overview of ASR software that use machine learning techniques
 | Software product  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | :heavy_check_mark:  |
+| :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | 
 | Content Cell  | Content Cell  |
 
 # Software products that use machine learning techniques
