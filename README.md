@@ -3,7 +3,7 @@ This github was instantiated with the intent of providing an overview of Systema
 
 # Table Overview of Systematic Review Software that Use Machine Learning Techniques
 | Feature  | ASR | Rayyan | Abstrackr | Swift | RobotAnalyst | Colandr
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Input | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |  | 
 | Textual  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |  |
 | Clustering  | :heavy_check_mark:  | :heavy_check_mark:  |   | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
