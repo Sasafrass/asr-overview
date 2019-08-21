@@ -9,7 +9,7 @@ This github was instantiated with the intent of providing an overview of Systema
 | Clustering  | :heavy_check_mark:  | :heavy_check_mark:  |   | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |  |
 | Keywords  |   | :heavy_check_mark:  | :heavy_check_mark:  |   |  |  |  |
 | Stemming  |   | :heavy_check_mark:  | :heavy_check_mark:  |  :heavy_check_mark: | :heavy_check_mark: | |  |
-| Active Learning  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |   | :heavy_check_mark: | :heavy_check_mark: |  |
+| Active Learning  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |   | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: |
 | Algorithm  | LSTM  | SVM  | SVM  | Logistic Regression  | SVM | Word2vec | ATR |
 | Stopping Criterion  |  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |  |  | :heavy_check_mark: |
 | Ready to use | :heavy_check_mark:  | :heavy_check_mark:  |   |   |  |  | :heavy_check_mark: |
