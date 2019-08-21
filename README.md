@@ -8,7 +8,7 @@ This github was instantiated with the intent of providing an overview of Systema
 | Textual  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |
 | Clustering  | :heavy_check_mark:  | :heavy_check_mark:  |   | :heavy_check_mark:  | :heavy_check_mark: |
 | Keywords  |   | :heavy_check_mark:  | :heavy_check_mark:  |   |  |
-| Stemming  |   | :heavy_check_mark:  | :heavy_check_mark:  |  :heavy_check_mark: |  |
+| Stemming  |   | :heavy_check_mark:  | :heavy_check_mark:  |  :heavy_check_mark: | :heavy_check_mark: |
 | Active Learning  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |   | :heavy_check_mark: |
 | Algorithm  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |
 | Stopping Criterion  |  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | |
