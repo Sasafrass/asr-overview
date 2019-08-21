@@ -10,7 +10,7 @@ This github was instantiated with the intent of providing an overview of Systema
 | Keywords  |   | :heavy_check_mark:  | :heavy_check_mark:  |   |  |  | 
 | Stemming  |   | :heavy_check_mark:  | :heavy_check_mark:  |  :heavy_check_mark: | :heavy_check_mark: | | 
 | Active Learning  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |   | :heavy_check_mark: | :heavy_check_mark: |
-| Algorithm  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | | 
+| Algorithm  | LSTM  | SVM  | SVM  | Logistic Regression  | SVM | Word2vec| 
 | Stopping Criterion  |  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |  |  |
 | Ready to use | :heavy_check_mark:  | :heavy_check_mark:  |   |   |  |  |
 | Simulations run | :heavy_check_mark: |   |   |   |  |  |
