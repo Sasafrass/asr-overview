@@ -2,20 +2,20 @@
 This github was instantiated with the intent of providing an overview of Systematic Review Software available to researchers. First and foremost, a distinction is made between two types of software products: ones that use machine learning techniques to expedite the abstract screening process of systematic reviews and ones that do not use machine learning techniques. A short summary follows of each software product, which is also summarized in the following table:
 
 # Table Overview of Systematic Review Software that Use Machine Learning Techniques
-| Feature  | ASR | Rayyan | Abstrackr | Swift | RobotAnalyst
+| Feature  | ASR | Rayyan | Abstrackr | Swift | RobotAnalyst | Colandr
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Input | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |
-| Textual  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |
-| Clustering  | :heavy_check_mark:  | :heavy_check_mark:  |   | :heavy_check_mark:  | :heavy_check_mark: |
-| Keywords  |   | :heavy_check_mark:  | :heavy_check_mark:  |   |  |
-| Stemming  |   | :heavy_check_mark:  | :heavy_check_mark:  |  :heavy_check_mark: | :heavy_check_mark: |
-| Active Learning  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |   | :heavy_check_mark: |
-| Algorithm  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |
-| Stopping Criterion  |  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | |
-| Ready to use | :heavy_check_mark:  | :heavy_check_mark:  |   |   |  |
-| Simulations run | :heavy_check_mark: |   |   |   |  |
-| Maintained  | :heavy_check_mark: | | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |
-| Results | :heavy_check_mark:  |   |   |   |  |
+| Input | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |  | 
+| Textual  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |  |
+| Clustering  | :heavy_check_mark:  | :heavy_check_mark:  |   | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
+| Keywords  |   | :heavy_check_mark:  | :heavy_check_mark:  |   |  |  | 
+| Stemming  |   | :heavy_check_mark:  | :heavy_check_mark:  |  :heavy_check_mark: | :heavy_check_mark: | | 
+| Active Learning  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |   | :heavy_check_mark: | :heavy_check_mark: |
+| Algorithm  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | | 
+| Stopping Criterion  |  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |  |  |
+| Ready to use | :heavy_check_mark:  | :heavy_check_mark:  |   |   |  |  |
+| Simulations run | :heavy_check_mark: |   |   |   |  |  |
+| Maintained  | :heavy_check_mark: | | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
+| Results | :heavy_check_mark:  |   |   |   |  |  | 
 
 
 # Software products that use machine learning techniques
