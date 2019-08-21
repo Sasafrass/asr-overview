@@ -13,8 +13,8 @@ This github was instantiated with the intent of providing an overview of Systema
 | Algorithm  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |
 | Stopping Criterion  |  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |
 | Ready to use | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |
-| Simulations run | :heavy_check_mark:   | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |
-| Maintained  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |
+| Simulations run | :heavy_check_mark: |   | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |
+| Maintained  | :heavy_check_mark: | | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |
 | Results | :heavy_check_mark:  |   | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark: |
 
 
